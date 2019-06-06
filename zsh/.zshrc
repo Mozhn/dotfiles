@@ -1,7 +1,7 @@
 export PATH=$PATH:~/.scripts
 export ZSH=/usr/share/oh-my-zsh
 
-ZSH_THEME="gallois"
+ZSH_THEME="robbyrussell"
 
 source $ZSH/oh-my-zsh.sh
 
