@@ -10,10 +10,8 @@ then
   then
     echo "System up to date!"
   else
-    notify-send -t 2000 "There are [$count] updates!"
     echo "There are [$count] updates!"
   fi
 else
-  notify-send -t 2000 "Network not connected."
   echo "Network problem..."
 fi
