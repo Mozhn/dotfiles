@@ -11,6 +11,7 @@
     exec --no-startup-id "polybar mozhn-top"
     exec --no-startup-id "polybar mozhn-workspace"
     exec --no-startup-id "thunar --daemon"
+    exec --no-startup-id "redshift -t 7000:4000 -b 1.0:0.87"
     exec --no-startup-id "xbindkeys"
     exec --no-startup-id "dunst"
 # }
