@@ -43,6 +43,8 @@ rules:
     flash-on-focus: False
   - window-class: Bitwarden
     flash-on-focus: False
+  - window-class: Code
+    flash-on-focus: False
 
 # Defining window-specific flash rules
 #
